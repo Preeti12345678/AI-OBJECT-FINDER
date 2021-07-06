@@ -1,0 +1,36 @@
+body{
+    background-size: cover;
+    font-family: 'Uchen', serif;
+}
+.header{
+    color: white;
+    width: 100%;
+    padding: 10px;
+    background-color: red;
+    margin-top: 0;
+    font-size: 25px;
+    font-family: 'Uchen', serif;
+}
+.name{
+    color: white;
+    font-size: 16px;
+}
+.start_btn{
+    background-color:white;
+    box-shadow: 2px 2px 2px 10px white;
+    font-weight: bolder;
+}
+
+.object_found{
+  background-color: red;
+  box-shadow: 2px 2px 2px 10px red;
+  font-weight: bolder;
+  color: white;
+  margin-left: 50px;
+}
+.status{
+    background-color: red;
+    box-shadow: 2px 2px 2px 10px red;
+    font-weight: bolder;
+    color: white;
+}
